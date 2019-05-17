@@ -8,6 +8,9 @@
    3. 生成demo如下
    
    ```java
+     package com.yzd.test.domain;
+     import java.io.Serializable;
+     import java.util.Date;
      /**
       *
       * @author :yourName
