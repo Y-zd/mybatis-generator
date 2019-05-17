@@ -1,4 +1,4 @@
-自定义domain模板的mybatis-generator生成工具
+自定义domain模板(增加表注释到生成domain中)的mybatis-generator生成工具
 ==
 
  使用方法:
